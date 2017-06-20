@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QAS Demo" verbose="0">
+	<test name="android  Test" enabled="true">
+		<classes>
+			<class name="com.perfecto.sample.tests.SampleTests"></class>
+		</classes>
+	</test>
+</suite>
